@@ -5,6 +5,8 @@
 ➡️**Basit bir finans uygulama arayüzü** <br/>
 ➡️**Para/birim dönüştürme, son işlem takibi, müşteri login gibi çeşitli fonksiyonları içinde barındırır.** <br/> 
 ➡️**Database tanımlaması yapılmamıştır.** <br/> 
+✅ *Müşteri işlemlerine göre kar-zarar miktarı belirtilmektedir. ** <br/> 
+
 💰💰💰💰💰
 <br/>
 
